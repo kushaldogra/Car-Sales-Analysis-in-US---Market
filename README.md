@@ -1,34 +1,34 @@
 # Car Sales Dashboard – Power BI Project
 
-## Overview
+# Overview
 This project involves the design and development of an interactive **Car Sales Dashboard** using **Power BI** for a car dealership business. The dashboard provides comprehensive insights into sales performance and key metrics, enabling stakeholders to monitor trends, evaluate performance, and make informed, data-driven decisions.
 
-## Objective
+# Objective
 The primary objective of this project is to visualize key performance indicators (KPIs) related to car sales. The dashboard enables effective tracking of sales data over time and supports strategic planning and operational efficiency through analytical insights.
 
-## Problem Statement 1: KPI Metrics
+# Problem Statement 1: KPI Metrics
 
 To support business analysis and performance monitoring, the dashboard includes the following KPIs:
 
-### Sales Overview
+## Sales Overview
 - Year-to-Date (YTD) Total Sales  
 - Month-to-Date (MTD) Total Sales  
 - Year-over-Year (YOY) Growth in Total Sales  
 - Difference between YTD and Previous Year-to-Date (PTYD) Sales  
 
-### Average Price Analysis
+## Average Price Analysis
 - YTD Average Price  
 - MTD Average Price  
 - YOY Growth in Average Price  
 - Difference between YTD and PTYD Average Price  
 
-### Cars Sold Metrics
+## Cars Sold Metrics
 - YTD Cars Sold  
 - MTD Cars Sold  
 - YOY Growth in Cars Sold  
 - Difference between YTD and PTYD Cars Sold  
 
-## Problem Statement 2: Chart Requirements
+# Problem Statement 2: Chart Requirements
 
 The dashboard includes multiple visual components to effectively communicate insights:
 
@@ -56,7 +56,7 @@ The dashboard includes multiple visual components to effectively communicate ins
   - Dealer Region  
   - Date of Sale  
 
-## Tools and Technologies Used
+# Tools and Technologies Used
 
 - Microsoft Power BI Desktop  
 - DAX (Data Analysis Expressions)  
@@ -65,7 +65,7 @@ The dashboard includes multiple visual components to effectively communicate ins
 - Data Modeling and Relationships  
 
 
-## Conclusion
+# Conclusion
 This dashboard offers a centralized and insightful view into the car dealership’s sales performance. It supports real-time monitoring, historical comparison, and operational analysis, ultimately helping the business optimize sales strategies and improve decision-making.
 
 
